@@ -24,9 +24,7 @@ Edit
 📱 Fully responsive design for mobile devices.
 
 🖥️ Demo
- (if hosted online)
-
-(optional image)
+ https://newsantanu.github.io/Pfrontend-02/
 
 ▶️ How to Use
 Open index.html in your browser.
